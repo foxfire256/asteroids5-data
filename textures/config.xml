@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<textures>
+	<texture>
+		<file_name>ball1.png</file_name>
+		<names>
+			<name>bullet</name>
+		</names>
+	</texture>
+	<texture>
+		<file_name>circle1.png</file_name>
+		<names>
+			<name>asteroid</name>
+		</names>
+	</texture>
+	<texture>
+		<file_name>triangle1.png</file_name>
+		<names>
+			<name>ship</name>
+		</names>
+	</texture>
+</textures>
